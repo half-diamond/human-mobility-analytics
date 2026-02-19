@@ -1,0 +1,15 @@
+type,count
+park,313
+train_station,212
+construction,46
+residential,27
+farmland,23
+parking,22
+bicycle_parking,18
+retail,12
+commercial,8
+school,7
+forest,7
+pitch,4
+sports_centre,1
+garden,1

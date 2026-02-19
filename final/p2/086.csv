@@ -1,0 +1,13 @@
+type,count
+nature_reserve,100
+residential,26
+park,8
+airfield,8
+parking,5
+commercial,3
+train_station,1
+office,1
+house,1
+meadow,1
+school,1
+university,1

@@ -1,0 +1,15 @@
+type,count
+research_institute,120
+university,37
+commercial,31
+residential,28
+school,12
+train_station,5
+grass,5
+parking,5
+apartments,4
+mall,2
+hospital,1
+forest,1
+park,1
+bicycle_parking,1

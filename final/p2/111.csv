@@ -1,0 +1,17 @@
+type,count
+residential,25
+university,20
+commercial,12
+military,12
+retail,10
+train_station,8
+park,8
+construction,5
+apartments,3
+house,3
+railway,2
+office,2
+bus_station,1
+parking,1
+grass,1
+museum,1

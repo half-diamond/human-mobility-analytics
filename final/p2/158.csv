@@ -1,0 +1,15 @@
+type,count
+train_station,232
+apartments,230
+residential,179
+commercial,72
+parking,40
+bicycle_parking,35
+university,21
+bus_station,13
+forest,7
+park,7
+hotel,6
+retail,5
+fuel,1
+construction,1

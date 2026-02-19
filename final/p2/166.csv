@@ -1,0 +1,17 @@
+type,count
+residential,69
+apartments,40
+commercial,40
+train_station,20
+research_institute,16
+mall,15
+university,13
+forest,11
+park,6
+retail,5
+parking,4
+sports_centre,4
+bicycle_parking,2
+stadium,2
+construction,1
+school,1
